@@ -1,0 +1,24 @@
+##############################################
+## This is a demo file for the branching demo
+##############################################
+
+####### Changes ################################
+##
+##	MVW	26/07/2017	Baseline Code
+
+
+
+
+SomeAwesome Class {
+
+
+	val SomeAwesomeValue = "12343"
+	
+	fun SomeAwesomeFun ( ) {
+	
+		Does real great stuff  ... trus me !
+		
+	}
+
+
+}

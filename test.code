@@ -14,6 +14,20 @@ SomeAwesome Class {
 
 	val SomeAwesomeValue = "12343"
 	
+	fun SomeReallyAwesomeFun ( ) {
+	
+		Does real great stuff  ... trust me !
+		
+	}
+
+
+}
+
+AnotherAwesome Class {
+
+
+	val SomeAwesomeValue = "12343"
+	
 	fun SomeAwesomeFun ( ) {
 	
 		Does real great stuff  ... trust me !

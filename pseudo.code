@@ -5,7 +5,7 @@
 ####### Changes ################################
 ##
 ##	MVW	26/07/2017	Baseline Code
-
+##	MVW	22/07/2017	Great Changes
 
 
 
@@ -14,9 +14,13 @@ SomeAwesome Class {
 
 	val SomeEvenMoreAwesomeValue = "12343"
 	
-	fun SomeVeryAwesomeFun ( ) {
+
+	fun SomeRealFun ( ) {
 	
-		Does real great stuff  ... trust me reaally!
+		#### NO NO NO not like this:  Does real great stuff  ... trust me !
+		
+		This is a Much better way
+
 		
 	}
 

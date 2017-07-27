@@ -12,13 +12,15 @@
 SomeAwesome Class {
 
 
-	val SomeAwesomeValue = "12343"
+	val SomeEvenMoreAwesomeValue = "12343"
 	
+
 	fun SomeRealFun ( ) {
 	
 		#### NO NO NO not like this:  Does real great stuff  ... trust me !
 		
 		This is a Much better way
+
 		
 	}
 
